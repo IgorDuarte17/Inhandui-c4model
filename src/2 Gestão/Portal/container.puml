@@ -1,0 +1,33 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(atendente, "Atendente", "")
+Person(gestoque, "Geretne de Estoque", "")
+Person(gerente, "Gerentes", "")
+Person(gfrota, "Gerente de Frota", "")
+Person(gvendas, "Gerente de Vendas", "")
+Person(administrador, "Administrador", "")
+
+System_Ext(auth, "Serviço de autenticação", "")
+Container(api, "API", "Node.js Express")
+
+Container_Boundary(portal, "Portal") {
+    Component(produtos, "Produtos", "Angular")
+    Component(estoque, "Estoque", "Angular")
+    Component(vandar, "Vendas", "Angular")
+    Component(entrega, "Entrega", "Angular")
+}
+
+Rel(portal, api, "Consome")
+Rel(portal, auth, "Autentica")
+
+Rel(atendente, portal, "Utiliza")
+Rel(gestoque, portal, "Utiliza")
+Rel(gerente, portal, "Utiliza")
+Rel(gfrota, portal, "Utiliza")
+Rel(gvendas, portal, "Utiliza")
+Rel(administrador, portal, "Utiliza")
+
+@enduml

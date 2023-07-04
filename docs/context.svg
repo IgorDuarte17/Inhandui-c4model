@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="497px" preserveAspectRatio="none" style="width:1095px;height:497px;background:#FFFFFF;" version="1.1" viewBox="0 0 1095 497" width="1095px" zoomAndPan="magnify"><defs/><g><!--MD5=[4eea9e561cff3d3abdfefda2fadd280b]
+entity cliente--><g id="elem_cliente"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="73" x="7" y="7"/><image height="48" width="48" x="19.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="53" x="17" y="81.6094">Cliente</text></g><!--MD5=[459a2c6c1a6176b0517558c579db1d33]
+entity atendente--><g id="elem_atendente"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="98" x="115.5" y="7"/><image height="48" width="48" x="140.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="78" x="125.5" y="81.6094">Atendente</text></g><!--MD5=[d840e6c36b5d827956188a7eda477a9e]
+entity gestoque--><g id="elem_gestoque"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="171" x="249" y="7"/><image height="48" width="48" x="310.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="151" x="259" y="81.6094">Geretne de Estoque</text></g><!--MD5=[1c261f789cf92f2b22d4584c79f6f03d]
+entity gerente--><g id="elem_gerente"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="89" x="455" y="7"/><image height="48" width="48" x="475.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="69" x="465" y="81.6094">Gerentes</text></g><!--MD5=[2bc16d7d553937bb6aa7de1c5f2c5a40]
+entity gfrota--><g id="elem_gfrota"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="147" x="579" y="7"/><image height="48" width="48" x="628.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="127" x="589" y="81.6094">Gerente de Frota</text></g><!--MD5=[11adc9b63538132412e8ea16499856e8]
+entity gvendas--><g id="elem_gvendas"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="165" x="761" y="7"/><image height="48" width="48" x="819.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="145" x="771" y="81.6094">Gerente de Vendas</text></g><!--MD5=[caed0a0171eceed252334cdedead97cf]
+entity administrador--><g id="elem_administrador"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="128" x="961.5" y="7"/><image height="48" width="48" x="1001.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="108" x="971.5" y="81.6094">Administrador</text></g><!--MD5=[9e13dc4d569c489700981f92b0e00ea9]
+entity inhandui--><g id="elem_inhandui"><rect fill="#1168BD" height="75.3438" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="212" x="393.5" y="172"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="67" x="466" y="198.6094">Inhanduí</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="497.5" y="216.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="188" x="407.5" y="234.2676">Plataform de Gestão Inhanduí</text></g><!--MD5=[d112aecbd7ccc75573a6ee2503a173b3]
+entity email--><g id="elem_email"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="145" x="218" y="324"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="125" x="228" y="350.6094">Serviço de email</text></g><!--MD5=[e29493a8775effcafa538aa0485107d1]
+entity auth--><g id="elem_auth"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="203" x="398" y="324"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="183" x="408" y="350.6094">Serviço de autenticação</text></g><!--MD5=[d2eeae0523169b080674b61fc7ab24dd]
+entity pagamento--><g id="elem_pagamento"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="199" x="636" y="324"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="179" x="646" y="350.6094">Gateway de pagamento</text></g><!--MD5=[9863c607b0a44b3611b1bf7c5c3c7c0b]
+link cliente to inhandui--><g id="link_cliente_inhandui"><path d="M80.3,84.23 C85.84,88.2 91.66,91.94 97.5,95 C188.63,142.84 302.27,172.52 385.45,189.47 " fill="none" id="cliente-to-inhandui" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="393.4,191.07,386.1453,186.5568,384.9665,192.4399,393.4,191.07" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="203.5" y="138.457">Utiliza</text></g><!--MD5=[97b88fb0f592aa58e36c19f64f1cfdd7]
+link atendente to inhandui--><g id="link_atendente_inhandui"><path d="M213.7,84.9 C219.61,88.46 225.63,91.9 231.5,95 C283.78,122.59 344.25,148.67 394.5,168.85 " fill="none" id="atendente-to-inhandui" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="402.16,171.91,395.8464,166.1534,393.618,171.7243,402.16,171.91" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="326.5" y="138.457">Utiliza</text></g><!--MD5=[c724f287daa88f08b86f9a1e003d8822]
+link gestoque to inhandui--><g id="link_gestoque_inhandui"><path d="M380.02,95.18 C403.32,117.27 431.57,144.07 454.75,166.05 " fill="none" id="gestoque-to-inhandui" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="460.83,171.82,457.0992,164.1336,452.9651,168.4819,460.83,171.82" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="428.5" y="138.457">Utiliza</text></g><!--MD5=[913e1053702373332d619517269a12e8]
+link gerente to inhandui--><g id="link_gerente_inhandui"><path d="M499.5,95.18 C499.5,116.52 499.5,142.25 499.5,163.79 " fill="none" id="gerente-to-inhandui" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="499.5,171.82,502.5,163.82,496.5,163.82,499.5,171.82" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="500.5" y="138.457">Utiliza</text></g><!--MD5=[ef5eefcfceb3149e64bd32a94ad5bf8f]
+link gfrota to inhandui--><g id="link_gfrota_inhandui"><path d="M610.29,95.18 C588.69,117.27 562.49,144.07 541,166.05 " fill="none" id="gfrota-to-inhandui" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="535.36,171.82,543.0974,168.1962,538.8068,164.0021,535.36,171.82" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="581.5" y="138.457">Utiliza</text></g><!--MD5=[1b8878f5bb64b4e9f2b7a009326036b1]
+link gvendas to inhandui--><g id="link_gvendas_inhandui"><path d="M760.67,89.68 C708.26,113.53 640.59,144.31 587.26,168.57 " fill="none" id="gvendas-to-inhandui" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="579.84,171.95,588.3642,171.3682,585.8797,165.9067,579.84,171.95" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="682.5" y="138.457">Utiliza</text></g><!--MD5=[8ca6828cb9f9ee3a166c5e373651dc23]
+link administrador to inhandui--><g id="link_administrador_inhandui"><path d="M961.24,87.47 C955.32,90.19 949.35,92.75 943.5,95 C834.52,136.85 704.61,168.01 613.57,186.99 " fill="none" id="administrador-to-inhandui" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="605.71,188.62,614.1533,189.9278,612.9313,184.0535,605.71,188.62" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="849.5" y="138.457">Utiliza</text></g><!--MD5=[8794afff5fffea4ec6bf9382f5ece51e]
+link inhandui to email--><g id="link_inhandui_email"><path d="M441.84,247.06 C405.33,270.2 359.21,299.44 327.53,319.52 " fill="none" id="inhandui-to-email" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="320.6,323.92,328.9626,322.1686,325.7489,317.1018,320.6,323.92" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="390.5" y="290.457">Utiliza</text></g><!--MD5=[03dbc600f4be3cdb3928f70ee2a1a0e8]
+link inhandui to auth--><g id="link_inhandui_auth"><path d="M499.5,247.06 C499.5,268.77 499.5,295.86 499.5,315.7 " fill="none" id="inhandui-to-auth" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="499.5,323.73,502.5,315.73,496.5,315.73,499.5,323.73" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="500.5" y="290.457">Utiliza</text></g><!--MD5=[80603dfad96e8474fcef4a5e411df508]
+link inhandui to pagamento--><g id="link_inhandui_pagamento"><path d="M564.61,247.06 C606.01,270.3 658.36,299.69 694.14,319.78 " fill="none" id="inhandui-to-pagamento" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="701.51,323.92,696.0031,317.3875,693.0656,322.6192,701.51,323.92" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="646.5" y="290.457">Utiliza</text></g><rect height="104.0469" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="118" x="955.5" y="377.125"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="961.5" y="399.6582">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1014.5" y="399.6582"> </text><rect fill="#08427B" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="961.5" y="402.7344"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="965.5" y="417.2676">person</text><rect fill="#1168BD" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="961.5" y="420.3438"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="965.5" y="434.877">system</text><rect fill="#686868" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="961.5" y="437.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="965.5" y="452.4863">external person</text><rect fill="#999999" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="961.5" y="455.5625"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="965.5" y="470.0957">external system</text><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="961.5" x2="1067.5" y1="385.125" y2="385.125"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="961.5" x2="1067.5" y1="402.7344" y2="402.7344"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="961.5" x2="1067.5" y1="420.3438" y2="420.3438"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="961.5" x2="1067.5" y1="437.9531" y2="437.9531"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="961.5" x2="1067.5" y1="455.5625" y2="455.5625"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="961.5" x2="1067.5" y1="473.1719" y2="473.1719"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="961.5" x2="961.5" y1="385.125" y2="473.1719"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1067.5" x2="1067.5" y1="385.125" y2="473.1719"/><!--MD5=[38ba776a907f6c3ece9c425a512ba9fd]
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(cliente, "Cliente", "")
+Person(atendente, "Atendente", "")
+Person(gestoque, "Geretne de Estoque", "")
+Person(gerente, "Gerentes", "")
+Person(gfrota, "Gerente de Frota", "")
+Person(gvendas, "Gerente de Vendas", "")
+Person(administrador, "Administrador", "")
+
+
+System(inhandui, "Inhanduí", "Plataform de Gestão Inhanduí")
+System_Ext(email, "Serviço de email", "")
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(pagamento, "Gateway de pagamento", "")
+
+Rel(cliente, inhandui, "Utiliza")
+Rel(atendente, inhandui, "Utiliza")
+Rel(gestoque, inhandui, "Utiliza")
+Rel(gerente, inhandui, "Utiliza")
+Rel(gfrota, inhandui, "Utiliza")
+Rel(gvendas, inhandui, "Utiliza")
+Rel(administrador, inhandui, "Utiliza")
+
+Rel(inhandui, email, "Utiliza")
+Rel(inhandui, auth, "Utiliza")
+Rel(inhandui, pagamento, "Utiliza")
+
+@enduml
+
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system|
+|<#686868> external person |
+|<#999999> external system |
+endlegend
+
+rectangle "<$person>\n==Cliente" <<person>> as cliente
+rectangle "<$person>\n==Atendente" <<person>> as atendente
+rectangle "<$person>\n==Geretne de Estoque" <<person>> as gestoque
+rectangle "<$person>\n==Gerentes" <<person>> as gerente
+rectangle "<$person>\n==Gerente de Frota" <<person>> as gfrota
+rectangle "<$person>\n==Gerente de Vendas" <<person>> as gvendas
+rectangle "<$person>\n==Administrador" <<person>> as administrador
+
+
+rectangle "==Inhanduí\n\n Plataform de Gestão Inhanduí" <<system>> as inhandui
+rectangle "==Serviço de email" <<external_system>> as email
+rectangle "==Serviço de autenticação" <<external_system>> as auth
+rectangle "==Gateway de pagamento" <<external_system>> as pagamento
+
+cliente - ->> inhandui : **Utiliza**
+atendente - ->> inhandui : **Utiliza**
+gestoque - ->> inhandui : **Utiliza**
+gerente - ->> inhandui : **Utiliza**
+gfrota - ->> inhandui : **Utiliza**
+gvendas - ->> inhandui : **Utiliza**
+administrador - ->> inhandui : **Utiliza**
+
+inhandui - ->> email : **Utiliza**
+inhandui - ->> auth : **Utiliza**
+inhandui - ->> pagamento : **Utiliza**
+
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 13:10:57 BRT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>

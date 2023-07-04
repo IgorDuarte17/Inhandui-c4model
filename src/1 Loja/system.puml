@@ -1,0 +1,32 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(cliente, "Cliente", "")
+
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(email, "Serviço de email", "")
+System_Ext(pagamento, "Gateway de pagamento", "")
+
+System_Boundary(loja, "Loja virtual") {
+    Container(site, "Site da Loja", "Angular Universal", "")
+    Container(app, "App da loja", "Ionic + Angular", "")
+    Container(api, "API", "Node.js + Express", "")
+    Container(database, "Banco de dados", "MySQL", "")
+
+    Rel(site, api, "Consome os dados da", "HTTP")
+    Rel(site, auth, "Autentica o usuário")
+
+    Rel(app, api, "Consome os dados da", "HTTP")
+    Rel(app, auth, "Autentica o usuário")
+
+    Rel(api, database, "Salva e obtém informações do")
+    Rel(api, pagamento, "Realiza cobranças através do")
+    Rel(api, email, "Envia notificações por e-mail usando")
+    Rel(api, auth, "Valida acesso do usuário usando o")
+}
+
+Rel(cliente, loja, "Compra através da")
+
+@enduml

@@ -1,0 +1,32 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(cliente, "Cliente", "")
+Person(atendente, "Atendente", "")
+Person(gestoque, "Geretne de Estoque", "")
+Person(gerente, "Gerentes", "")
+Person(gfrota, "Gerente de Frota", "")
+Person(gvendas, "Gerente de Vendas", "")
+Person(administrador, "Administrador", "")
+
+
+System(inhandui, "Inhanduí", "Plataform de Gestão Inhanduí")
+System_Ext(email, "Serviço de email", "")
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(pagamento, "Gateway de pagamento", "")
+
+Rel(cliente, inhandui, "Utiliza")
+Rel(atendente, inhandui, "Utiliza")
+Rel(gestoque, inhandui, "Utiliza")
+Rel(gerente, inhandui, "Utiliza")
+Rel(gfrota, inhandui, "Utiliza")
+Rel(gvendas, inhandui, "Utiliza")
+Rel(administrador, inhandui, "Utiliza")
+
+Rel(inhandui, email, "Utiliza")
+Rel(inhandui, auth, "Utiliza")
+Rel(inhandui, pagamento, "Utiliza")
+
+@enduml

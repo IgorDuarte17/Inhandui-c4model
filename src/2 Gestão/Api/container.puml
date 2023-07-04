@@ -1,0 +1,21 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(email, "Serviço de email", "")
+Container(database, "Banco de dados", "MySQL", "")
+
+Container_Boundary(api, "API") {
+    Component(produtos, "Produtos", "Node.js")
+    Component(estoque, "Estoque", "Node.js")
+    Component(vendas, "Vendas", "Node.js")
+    Component(entrega, "Entrega", "Node.js")
+}
+
+Rel(api, database, "Salva e consulta dados")
+Rel(api, auth, "Autentica")
+Rel(api, email, "Envi e-mail")
+
+@enduml

@@ -1,0 +1,38 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(atendente, "Atendente", "")
+Person(gestoque, "Geretne de Estoque", "")
+Person(gerente, "Gerentes", "")
+Person(gfrota, "Gerente de Frota", "")
+Person(gvendas, "Gerente de Vendas", "")
+Person(administrador, "Administrador", "")
+
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(email, "Serviço de email", "")
+System_Ext(pagamento, "Gateway de pagamento", "")
+
+System_Boundary(gestao, "Sistema de Gestão") {
+    Container(site, "Site", "Angular Universal", "")
+    Container(api, "API", "Node.js + Express", "")
+    Container(database, "Banco de dados", "MySQL", "")
+
+    Rel(site, api, "Consome os dados da", "HTTP")
+    Rel(site, auth, "Autentica o usuário")
+
+    Rel(api, database, "Salva e obtém informações do")
+    Rel(api, pagamento, "Realiza cobranças através do")
+    Rel(api, email, "Envia notificações por e-mail usando")
+    Rel(api, auth, "Valida acesso do usuário usando o")
+}
+
+Rel(atendente, gestao, "Utiliza")
+Rel(gestoque, gestao, "Utiliza")
+Rel(gerente, gestao, "Utiliza")
+Rel(gfrota, gestao, "Utiliza")
+Rel(gvendas, gestao, "Utiliza")
+Rel(administrador, gestao, "Utiliza")
+
+@enduml

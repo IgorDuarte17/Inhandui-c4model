@@ -1,0 +1,19 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+System_Ext(auth, "Serviço de autenticação", "")
+Container(api, "API", "Node.js Express")
+
+Container_Boundary(site, "Site") {
+    Component(produtos, "Produtos", "Angular")
+    Component(carrinho, "Carrinho", "Angular")
+    Component(pedido, "Pedido", "Angular")
+    Component(cadastro, "Cadastro", "Angular")
+}
+
+Rel(site, api, "Consome")
+Rel(site, auth, "Autentica")
+
+@enduml

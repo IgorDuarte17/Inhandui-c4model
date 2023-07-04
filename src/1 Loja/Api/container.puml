@@ -1,0 +1,31 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Component.puml
+
+LAYOUT_WITH_LEGEND()
+
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(email, "Serviço de email", "")
+System_Ext(gateway, "Gateway de pagamento", "")
+System_Ext(nota, "Serviço de nota fiscal", "")
+Container(database, "Banco de dados", "MySQL", "")
+
+Container_Boundary(api, "API") {
+    Component(produtos, "Serviço de produtos", "Node.js")
+    Component(venda, "Serviço de venda", "Node.js")
+    Component(pagamento, "Serviço de pagamento", "Node.js")
+
+    Rel(produtos, database, "Salva e consulta dados")
+    Rel(produtos, auth, "Autentica")
+    Rel(produtos, venda, "Adiciona produto no carrinho")
+
+    Rel(venda, database, "Salva e consulta dados")
+    Rel(venda, auth, "Autentica")
+    Rel(venda, email, "Envia notificações")
+    Rel(venda, nota, "Emite notas")
+
+    Rel(pagamento, database, "Salva e consulta dados")
+    Rel(pagamento, auth, "Autentica")
+    Rel(pagamento, gateway, "Realiza cobrança")
+}
+
+@enduml

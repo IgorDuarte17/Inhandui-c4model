@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="769px" preserveAspectRatio="none" style="width:1349px;height:769px;background:#FFFFFF;" version="1.1" viewBox="0 0 1349 769" width="1349px" zoomAndPan="magnify"><defs/><g><!--MD5=[dbaecb6128bced481e4289739d27a37c]
+cluster gestao--><g id="cluster_gestao"><rect height="435" rx="2.5" ry="2.5" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="219" x="459" y="166"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="142" x="497.5" y="184.6094">Sistema de Gestão</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="51" x="543" y="200.582">[System]</text></g><!--MD5=[e24c6d6bbe04aad7e54fd927083aea63]
+entity site--><g id="elem_site"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="124" x="516" y="228"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="29" x="563.5" y="254.6094">Site</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="104" x="526" y="270.582">[Angular Universal]</text></g><!--MD5=[e2307af040e3f87d22824e7603ca28ec]
+entity api--><g id="elem_api"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="125" x="528.5" y="375"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="26" x="578" y="401.6094">API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="105" x="538.5" y="417.582">[Node.js + Express]</text></g><!--MD5=[f50ff5e4cd64f259303fc83dba1819fc]
+entity database--><g id="elem_database"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="145" x="491.5" y="522"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="125" x="501.5" y="548.6094">Banco de dados</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="45" x="541.5" y="564.582">[MySQL]</text></g><!--MD5=[459a2c6c1a6176b0517558c579db1d33]
+entity atendente--><g id="elem_atendente"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="98" x="7" y="7"/><image height="48" width="48" x="32" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="78" x="17" y="81.6094">Atendente</text></g><!--MD5=[d840e6c36b5d827956188a7eda477a9e]
+entity gestoque--><g id="elem_gestoque"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="171" x="140.5" y="7"/><image height="48" width="48" x="202" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="151" x="150.5" y="81.6094">Geretne de Estoque</text></g><!--MD5=[1c261f789cf92f2b22d4584c79f6f03d]
+entity gerente--><g id="elem_gerente"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="89" x="346.5" y="7"/><image height="48" width="48" x="367" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="69" x="356.5" y="81.6094">Gerentes</text></g><!--MD5=[2bc16d7d553937bb6aa7de1c5f2c5a40]
+entity gfrota--><g id="elem_gfrota"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="147" x="470.5" y="7"/><image height="48" width="48" x="520" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="127" x="480.5" y="81.6094">Gerente de Frota</text></g><!--MD5=[11adc9b63538132412e8ea16499856e8]
+entity gvendas--><g id="elem_gvendas"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="165" x="652.5" y="7"/><image height="48" width="48" x="711" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="145" x="662.5" y="81.6094">Gerente de Vendas</text></g><!--MD5=[caed0a0171eceed252334cdedead97cf]
+entity administrador--><g id="elem_administrador"><rect fill="#08427B" height="88.125" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="128" x="853" y="7"/><image height="48" width="48" x="893" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="108" x="863" y="81.6094">Administrador</text></g><!--MD5=[e29493a8775effcafa538aa0485107d1]
+entity auth--><g id="elem_auth"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="203" x="1140.5" y="529.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="183" x="1150.5" y="556.1094">Serviço de autenticação</text></g><!--MD5=[d112aecbd7ccc75573a6ee2503a173b3]
+entity email--><g id="elem_email"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="145" x="702.5" y="529.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="125" x="712.5" y="556.1094">Serviço de email</text></g><!--MD5=[d2eeae0523169b080674b61fc7ab24dd]
+entity pagamento--><g id="elem_pagamento"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="199" x="882.5" y="529.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="179" x="892.5" y="556.1094">Gateway de pagamento</text></g><!--MD5=[74117ecd0315b4d88958640012836407]
+link site to api--><g id="link_site_api"><path d="M580.38,283.1 C582.49,306.56 585.57,340.91 587.87,366.58 " fill="none" id="site-to-api" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="588.59,374.58,590.864,366.3442,584.888,366.8797,588.59,374.58" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="126" x="587" y="326.457">Consome os dados da</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="37" x="631.5" y="341.5508">[HTTP]</text></g><!--MD5=[551fdf8ffd04d733be1d6df7916c10c2]
+link site to auth--><g id="link_site_auth"><path d="M640.05,267 C788.02,293.34 1155,366.86 1232,460 C1245.9,476.82 1247.52,501.99 1246.17,521.19 " fill="none" id="site-to-auth" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="1245.4,529.28,1249.1306,521.5935,1243.1566,521.0358,1245.4,529.28" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="110" x="1196" y="407.457">Autentica o usuário</text></g><!--MD5=[5194daf164f60f68b297387c06713afb]
+link api to database--><g id="link_api_database"><path d="M586.05,430.1 C581.68,453.56 575.28,487.91 570.5,513.58 " fill="none" id="api-to-database" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="569.01,521.58,573.4289,514.2675,567.5311,513.165,569.01,521.58" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="80" x="584" y="473.457">Salva e obtém</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="89" x="581" y="488.5508">informações do</text></g><!--MD5=[ef4e29bf88aa6aac5ca301e23bb34ea4]
+link api to pagamento--><g id="link_api_pagamento"><path d="M653.7,410.08 C708.12,417.39 788.15,432.06 853,460 C890.55,476.18 928.55,503.94 953.48,524.06 " fill="none" id="api-to-pagamento" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="959.84,529.25,955.5369,521.8687,951.7445,526.5182,959.84,529.25" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="105" x="910" y="473.457">Realiza cobranças</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="60" x="934" y="488.5508">através do</text></g><!--MD5=[f9a1adce3c8f952e196d60b869c85837]
+link api to email--><g id="link_api_email"><path d="M635.89,430.21 C650.04,439.18 665.49,449.57 679,460 C704.46,479.67 731.21,504.74 749.98,523.17 " fill="none" id="api-to-email" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="756.03,529.15,752.4455,521.3943,748.2297,525.6636,756.03,529.15" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="125" x="716" y="473.457">Envia notificações por</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="80" x="740" y="488.5508">e-mail usando</text></g><!--MD5=[dcd173ae8e6a2c91b6e1fa4388899dd5]
+link api to auth--><g id="link_api_auth"><path d="M653.86,403.6 C740.31,405.52 899.64,415.52 1027,460 C1052.98,469.07 1055.1,480.3 1080,492 C1108.58,505.43 1141.28,517.43 1169.78,526.88 " fill="none" id="api-to-auth" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="1177.7,529.48,1171.035,524.1341,1169.1634,529.8347,1177.7,529.48" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="143" x="1081" y="473.457">Valida acesso do usuário</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="52" x="1128" y="488.5508">usando o</text></g><!--MD5=[9d1bfa8cd67cc49bf6a1e9c134d3d7d2]
+link atendente to gestao--><g id="link_atendente_gestao"><path d="M105.3,84.71 C111.2,88.3 117.19,91.81 123,95 C195.695,134.94 280.165,174.2025 347.2088,203.7788 C380.7306,218.5669 409.8959,230.9334 431.0545,239.7523 C441.6338,244.1618 450.2114,247.6843 456.3311,250.1792 C457.0961,250.4911 457.8226,250.7869 458.5099,251.0663 " fill="none" id="atendente-to-gestao" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="458.5099,251.0663,452.2292,245.2738,449.9691,250.8318,458.5099,251.0663" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="208" y="138.457">Utiliza</text></g><!--MD5=[00adfc9c3efc2d4796eeaabc75cbd190]
+link gestoque to gestao--><g id="link_gestoque_gestao"><path d="M277.4,95.19 C312.24,124.465 358.715,163.515 396.9313,195.6263 C416.0394,211.6819 433.0828,226.0028 445.5748,236.4998 C448.6979,239.1241 451.5364,241.5094 454.0516,243.623 C455.3092,244.6798 456.486,245.6687 457.5771,246.5856 C457.8499,246.8148 458.1173,247.0396 458.3793,247.2597 C458.5103,247.3698 458.6399,247.4788 458.7682,247.5866 " fill="none" id="gestoque-to-gestao" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="458.7682,247.5866,454.5738,240.143,450.7136,244.7364,458.7682,247.5866" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="334" y="138.457">Utiliza</text></g><!--MD5=[e9c840586286553ddd05a7f11f4fb47a]
+link gerente to gestao--><g id="link_gerente_gestao"><path d="M407.3,95.44 C418.295,124.725 432.93,163.715 444.9575,195.7625 C447.9644,203.7744 450.8083,211.3523 453.3916,218.2363 C454.6833,221.6783 455.9098,224.9467 457.0589,228.0092 C457.6335,229.5404 458.1888,231.0201 458.7232,232.4443 C458.7899,232.6223 458.8564,232.7994 458.9226,232.9757 " fill="none" id="gerente-to-gestao" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="458.9226,232.9757,458.9209,224.4317,453.3033,226.5396,458.9226,232.9757" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="426" y="138.457">Utiliza</text></g><!--MD5=[30a7a07767929bdf7bfb397f80c50174]
+link gfrota to gestao--><g id="link_gfrota_gestao"><path d="M506.2,95.01 C494.1,111.18 482.04,130.42 475,150 C474.0313,152.6969 473.1514,155.4575 472.3532,158.2637 C471.9541,159.6668 471.5754,161.0814 471.2162,162.5051 C471.0366,163.2169 470.8619,163.9311 470.6919,164.6472 C470.6069,165.0053 470.5231,165.3639 470.4405,165.7229 " fill="none" id="gfrota-to-gestao" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="470.4405,165.7229,475.158,158.5994,469.3108,157.2539,470.4405,165.7229" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="487" y="138.457">Utiliza</text></g><!--MD5=[899054185908ec4ecf71bc0de057841b]
+link gvendas to gestao--><g id="link_gvendas_gestao"><path d="M652.12,94.47 C615.52,111.62 571.48,130.12 530,142 C518.13,145.4 483.43,140.97 475,150 C459.35,166.755 457.1675,192.3325 458.9863,213.9887 " fill="none" id="gvendas-to-gestao" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="458.9863,213.9887,461.3062,205.7657,455.3273,206.2679,458.9863,213.9887" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="578" y="138.457">Utiliza</text></g><!--MD5=[7c2ce24dbef6338f26b3af458dc1bf4a]
+link administrador to gestao--><g id="link_administrador_gestao"><path d="M852.83,87.68 C846.89,90.36 840.89,92.85 835,95 C743.51,128.35 717.49,128.85 621,142 C604.9,144.19 486.61,138.64 475,150 C458.615,166.035 456.42,191.6 458.4163,213.43 C458.541,214.7944 458.6822,216.1442 458.8372,217.4761 C458.876,217.8091 458.9156,218.141 458.9561,218.4717 " fill="none" id="administrador-to-gestao" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="458.9561,218.4717,460.9621,210.1665,455.0066,210.8953,458.9561,218.4717" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="735" y="138.457">Utiliza</text></g><rect height="139.2656" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="133" x="1194.5" y="614"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="1200.5" y="636.5332">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1253.5" y="636.5332"> </text><rect fill="#08427B" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1200.5" y="639.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1204.5" y="654.1426">person</text><rect fill="#1168BD" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1200.5" y="657.2188"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1204.5" y="671.752">system</text><rect fill="#438DD5" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1200.5" y="674.8281"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="1204.5" y="689.3613">container</text><rect fill="#686868" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1200.5" y="692.4375"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1204.5" y="706.9707">external person</text><rect fill="#999999" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1200.5" y="710.0469"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1204.5" y="724.5801">external system</text><rect fill="#B3B3B3" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1200.5" y="727.6563"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="1204.5" y="742.1895">external container</text><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1321.5" y1="622" y2="622"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1321.5" y1="639.6094" y2="639.6094"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1321.5" y1="657.2188" y2="657.2188"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1321.5" y1="674.8281" y2="674.8281"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1321.5" y1="692.4375" y2="692.4375"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1321.5" y1="710.0469" y2="710.0469"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1321.5" y1="727.6563" y2="727.6563"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1321.5" y1="745.2656" y2="745.2656"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1200.5" x2="1200.5" y1="622" y2="745.2656"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1321.5" x2="1321.5" y1="622" y2="745.2656"/><!--MD5=[15854cccef328a1852228b43bb948565]
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(atendente, "Atendente", "")
+Person(gestoque, "Geretne de Estoque", "")
+Person(gerente, "Gerentes", "")
+Person(gfrota, "Gerente de Frota", "")
+Person(gvendas, "Gerente de Vendas", "")
+Person(administrador, "Administrador", "")
+
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(email, "Serviço de email", "")
+System_Ext(pagamento, "Gateway de pagamento", "")
+
+System_Boundary(gestao, "Sistema de Gestão") {
+    Container(site, "Site", "Angular Universal", "")
+    Container(api, "API", "Node.js + Express", "")
+    Container(database, "Banco de dados", "MySQL", "")
+
+    Rel(site, api, "Consome os dados da", "HTTP")
+    Rel(site, auth, "Autentica o usuário")
+
+    Rel(api, database, "Salva e obtém informações do")
+    Rel(api, pagamento, "Realiza cobranças através do")
+    Rel(api, email, "Envia notificações por e-mail usando")
+    Rel(api, auth, "Valida acesso do usuário usando o")
+}
+
+Rel(atendente, gestao, "Utiliza")
+Rel(gestoque, gestao, "Utiliza")
+Rel(gerente, gestao, "Utiliza")
+Rel(gfrota, gestao, "Utiliza")
+Rel(gvendas, gestao, "Utiliza")
+Rel(administrador, gestao, "Utiliza")
+
+@enduml
+
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system |
+|<#438DD5> container |
+|<#686868> external person |
+|<#999999> external system |
+|<#B3B3B3> external container |
+endlegend
+
+rectangle "<$person>\n==Atendente" <<person>> as atendente
+rectangle "<$person>\n==Geretne de Estoque" <<person>> as gestoque
+rectangle "<$person>\n==Gerentes" <<person>> as gerente
+rectangle "<$person>\n==Gerente de Frota" <<person>> as gfrota
+rectangle "<$person>\n==Gerente de Vendas" <<person>> as gvendas
+rectangle "<$person>\n==Administrador" <<person>> as administrador
+
+rectangle "==Serviço de autenticação" <<external_system>> as auth
+rectangle "==Serviço de email" <<external_system>> as email
+rectangle "==Gateway de pagamento" <<external_system>> as pagamento
+
+rectangle "==Sistema de Gestão\n<size:12>[System]</size>" <<boundary>> as gestao {
+    rectangle "==Site\n//<size:12>[Angular Universal]</size>//" <<container>> as site
+    rectangle "==API\n//<size:12>[Node.js + Express]</size>//" <<container>> as api
+    rectangle "==Banco de dados\n//<size:12>[MySQL]</size>//" <<container>> as database
+
+site - ->> api : **Consome os dados da**\n//<size:12>[HTTP]</size>//
+site - ->> auth : **Autentica o usuário**
+
+api - ->> database : **Salva e obtém informações do**
+api - ->> pagamento : **Realiza cobranças através do**
+api - ->> email : **Envia notificações por e-mail usando**
+api - ->> auth : **Valida acesso do usuário usando o**
+}
+
+atendente - ->> gestao : **Utiliza**
+gestoque - ->> gestao : **Utiliza**
+gerente - ->> gestao : **Utiliza**
+gfrota - ->> gestao : **Utiliza**
+gvendas - ->> gestao : **Utiliza**
+administrador - ->> gestao : **Utiliza**
+
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 13:10:57 BRT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="674px" preserveAspectRatio="none" style="width:1642px;height:674px;background:#FFFFFF;" version="1.1" viewBox="0 0 1642 674" width="1642px" zoomAndPan="magnify"><defs/><g><!--MD5=[81d16cdabbe89c1a39395d00a8354929]
+cluster k8s--><g id="cluster_k8s"><rect height="340" rx="2.5" ry="2.5" style="stroke:#A2A2A2;stroke-width:1.0;fill:none;" width="1015" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="89" x="470" y="25.6094">Kubernetes</text></g><!--MD5=[07c9f5462306b8b9fc6ac05b768a1b93]
+cluster apiloja--><g id="cluster_apiloja"><rect height="126" rx="2.5" ry="2.5" style="stroke:#A2A2A2;stroke-width:1.0;fill:none;" width="405" x="585" y="189"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="86" x="744.5" y="207.6094">API da Loja</text></g><!--MD5=[2e095ff38aeff3299272a9a0d10b9152]
+cluster apiportal--><g id="cluster_apiportal"><rect height="126" rx="2.5" ry="2.5" style="stroke:#A2A2A2;stroke-width:1.0;fill:none;" width="506" x="39" y="189"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="180" x="202" y="207.6094">API do Portal de Gestão</text></g><!--MD5=[e8f3788ad7b97e8de68b4194558bc2a1]
+cluster db--><g id="cluster_db"><rect height="110" rx="2.5" ry="2.5" style="stroke:#A2A2A2;stroke-width:1.0;fill:none;" width="584" x="47" y="396"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="209" x="234.5" y="414.6094">Cluster de Banco de Dados</text></g><!--MD5=[7afea78ea3e2dfbc9b2261ae2e330c51]
+cluster phone--><g id="cluster_phone"><rect height="110" rx="2.5" ry="2.5" style="stroke:#A2A2A2;stroke-width:1.0;fill:none;" width="148" x="1488" y="7"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="132" x="1496" y="25.6094">Celular do cliente</text></g><!--MD5=[3320c4e17d84b5275ff7273532b2725a]
+cluster computer--><g id="cluster_computer"><rect height="110" rx="2.5" ry="2.5" style="stroke:#A2A2A2;stroke-width:1.0;fill:none;" width="193" x="1271" y="7"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="177" x="1279" y="25.6094">Computados do cliente</text></g><!--MD5=[980567c6fcea5c05630986d932f3fc06]
+cluster phoneuser--><g id="cluster_phoneuser"><rect height="110" rx="2.5" ry="2.5" style="stroke:#A2A2A2;stroke-width:1.0;fill:none;" width="201" x="1046" y="7"/><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="185" x="1054" y="25.6094">Computados do usuário</text></g><!--MD5=[52efc3f0584e42cdc6d852ff4913efcb]
+entity siteloja--><g id="elem_siteloja"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="124" x="849" y="46"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="89" x="866.5" y="72.6094">Site da Loja</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="104" x="859" y="88.582">[Angular Universal]</text></g><!--MD5=[3685ff4c4d6aae45b7658e11631d7dd5]
+entity siteportal--><g id="elem_siteportal"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="146" x="464" y="46"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="126" x="474" y="72.6094">Portal de Gestão</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="104" x="485" y="88.582">[Angular Universal]</text></g><!--MD5=[fde2a59afbc96a092b93250be786a318]
+entity lprodutos--><g id="elem_lprodutos"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="91" x="609.5" y="236"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="71" x="619.5" y="262.6094">Produtos</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="48" x="631" y="278.582">[Node.js]</text></g><!--MD5=[81bf2c45acf2ed862ec9bf8ddc951d97]
+entity lvenda--><g id="elem_lvenda"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="69" x="735.5" y="236"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="49" x="745.5" y="262.6094">Venda</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="48" x="746" y="278.582">[Node.js]</text></g><!--MD5=[a7bbcf85f9936c8e0ed68f994b180b57]
+entity lpagamento--><g id="elem_lpagamento"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="107" x="839.5" y="236"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="87" x="849.5" y="262.6094">Pagamento</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="48" x="869" y="278.582">[Node.js]</text></g><!--MD5=[55d86766b65036e7528d3f59b348c834]
+entity pprodutos--><g id="elem_pprodutos"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="91" x="297.5" y="236"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="71" x="307.5" y="262.6094">Produtos</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="48" x="319" y="278.582">[Node.js]</text></g><!--MD5=[f246ff356c16de4f543a9936f5fd38b0]
+entity pestoque--><g id="elem_pestoque"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="84" x="63" y="236"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="64" x="73" y="262.6094">Estoque</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="48" x="81" y="278.582">[Node.js]</text></g><!--MD5=[4f684d26e25cde6ef3099c7fb6470ffe]
+entity pvendas--><g id="elem_pvendas"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="78" x="424" y="236"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="58" x="434" y="262.6094">Vendas</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="48" x="439" y="278.582">[Node.js]</text></g><!--MD5=[b4ea23096762508210b3976c0bb01011]
+entity pentrega--><g id="elem_pentrega"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="80" x="182" y="236"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="60" x="192" y="262.6094">Entrega</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="48" x="198" y="278.582">[Node.js]</text></g><!--MD5=[19707e11898a3d822893470a11feebe4]
+entity dprodutos--><g id="elem_dprodutos"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="91" x="297.5" y="435"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="71" x="307.5" y="461.6094">Produtos</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="45" x="320.5" y="477.582">[MySQL]</text></g><!--MD5=[70f9630a31dc441497d90203998a24c1]
+entity destoque--><g id="elem_destoque"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="84" x="63" y="435"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="64" x="73" y="461.6094">Estoque</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="45" x="82.5" y="477.582">[MySQL]</text></g><!--MD5=[4b34d4173cf5c85090db02e054d8a2d9]
+entity dvendas--><g id="elem_dvendas"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="78" x="424" y="435"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="58" x="434" y="461.6094">Vendas</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="45" x="440.5" y="477.582">[MySQL]</text></g><!--MD5=[7194fa50a837061147a7cafce23ea27d]
+entity dpagamentos--><g id="elem_dpagamentos"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="78" x="537" y="435"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="58" x="547" y="461.6094">Vendas</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="45" x="553.5" y="477.582">[MySQL]</text></g><!--MD5=[f0529f8d3e99fa1cc6958bbc7299181f]
+entity dentrega--><g id="elem_dentrega"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="80" x="182" y="435"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="60" x="192" y="461.6094">Entrega</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="45" x="199.5" y="477.582">[MySQL]</text></g><!--MD5=[e5d0fa8579bc6f0bbc5ba00512708366]
+entity clienteapploja--><g id="elem_clienteapploja"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="111" x="1504.5" y="46"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="91" x="1514.5" y="72.6094">App da Loja</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="89" x="1515.5" y="88.582">[Angular + Ionic]</text></g><!--MD5=[c1e4d37768a37d8c3503888005ddcb49]
+entity clientesiteloja--><g id="elem_clientesiteloja"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="124" x="1287" y="46"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="89" x="1304.5" y="72.6094">Site da Loja</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="104" x="1297" y="88.582">[Angular Universal]</text></g><!--MD5=[2417045838dab5a23be52f9309e24b0a]
+entity usuariosportal--><g id="elem_usuariosportal"><rect fill="#438DD5" height="55.2188" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="146" x="1062" y="46"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="126" x="1072" y="72.6094">Portal de Gestão</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="104" x="1083" y="88.582">[Angular Universal]</text></g><!--MD5=[e29493a8775effcafa538aa0485107d1]
+entity auth--><g id="elem_auth"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="203" x="1176.5" y="442.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="183" x="1186.5" y="469.1094">Serviço de autenticação</text></g><!--MD5=[d112aecbd7ccc75573a6ee2503a173b3]
+entity email--><g id="elem_email"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="145" x="674.5" y="442.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="125" x="684.5" y="469.1094">Serviço de email</text></g><!--MD5=[d2eeae0523169b080674b61fc7ab24dd]
+entity pagamento--><g id="elem_pagamento"><rect fill="#999999" height="40.125" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="199" x="875.5" y="442.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="179" x="885.5" y="469.1094">Gateway de pagamento</text></g><!--MD5=[d244b184cb89aa822ba85f770aed19c6]
+link siteloja to apiloja--><g id="link_siteloja_apiloja"><path d="M908.03,101.36 C907.38,121.47 910.07,148.28 926,165 C937.6,177.18 951.13,161.08 963,173 C966.5313,176.545 969.4811,180.5727 971.9392,184.9105 C972.5537,185.995 973.1375,187.0989 973.6919,188.2194 C973.7612,188.3595 973.8301,188.4998 973.8984,188.6404 " fill="none" id="siteloja-to-apiloja" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="973.8984,188.6404,973.0965,180.1341,967.7011,182.7589,973.8984,188.6404" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="93" x="927" y="153.957">Chamada de API</text></g><!--MD5=[dbbdeecc3045c9664d894487421f19f8]
+link siteportal to apiportal--><g id="link_siteportal_apiportal"><path d="M537,101.04 C537,113.7925 537,130.0469 537,147.3072 C537,155.9373 537,164.819 537,173.6401 C537,178.0507 537,182.4461 537,186.7874 C537,187.3301 537,187.8719 537,188.4128 " fill="none" id="siteportal-to-apiportal" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="537,188.4128,540,180.4128,534,180.4128,537,188.4128" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="93" x="538" y="153.957">Chamada de API</text></g><!--MD5=[66b6cd6a97a302a766ab4258cd218a91]
+link clienteapploja to apiloja--><g id="link_clienteapploja_apiloja"><path d="M1504.27,97.74 C1457.19,116.96 1387.76,144.35 1326,165 C1288.615,177.495 1203.6625,201.5875 1127.5388,222.6963 C1089.4769,233.2506 1053.6222,243.0591 1027.0242,250.2989 C1013.7252,253.9188 1002.7404,256.8966 994.951,259.0044 C993.9773,259.2679 993.0536,259.5177 992.1815,259.7536 C991.7454,259.8715 991.3223,259.9859 990.9123,260.0968 C990.7073,260.1522 990.5055,260.2067 990.3071,260.2604 " fill="none" id="clienteapploja-to-apiloja" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="990.3071,260.2604,998.8128,261.0689,997.2471,255.2767,990.3071,260.2604" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="100" x="1411" y="146.457">Chamadas de API</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="71" x="1425.5" y="161.5508">[json/HTTPS]</text></g><!--MD5=[c9caa80e0682aa027622d3b6f6a85d43]
+link clientesiteloja to apiloja--><g id="link_clientesiteloja_apiloja"><path d="M1286.91,98.21 C1264.03,107.87 1238.27,119.87 1216,133 C1195.78,144.92 1193.88,152.52 1174,165 C1134.1,190.04 1086.965,214.05 1049.3825,231.9788 C1030.5913,240.9431 1014.1881,248.3872 1002.2716,253.6795 C999.2924,255.0026 996.5937,256.1912 994.2082,257.2355 C993.0154,257.7576 991.9009,258.2436 990.8689,258.6924 C990.6108,258.8045 990.358,258.9144 990.1103,259.0219 " fill="none" id="clientesiteloja-to-apiloja" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="990.1103,259.0219,998.6433,258.5885,996.2543,253.0846,990.1103,259.0219" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="100" x="1217" y="146.457">Chamadas de API</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="71" x="1231.5" y="161.5508">[json/HTTPS]</text></g><!--MD5=[9f948f9891d7447d8662c0cd3e89d409]
+link usuariosportal to apiportal--><g id="link_usuariosportal_apiportal"><path d="M1102.71,101.2 C1071.04,127.27 1026.8,163.26 1022,165 C999.58,173.11 613.74,161.26 593,173 C572.905,184.38 559.025,206.24 550.11,225.5063 C548.9956,227.9145 547.9588,230.2823 546.9972,232.584 C546.5163,233.7348 546.0543,234.8692 545.6107,235.9838 C545.4998,236.2624 545.3901,236.5399 545.2815,236.816 C545.2272,236.9541 545.1732,237.0918 545.1195,237.2292 " fill="none" id="usuariosportal-to-apiportal" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="545.1195,237.2292,550.8262,230.8705,545.2379,228.6861,545.1195,237.2292" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="100" x="1062" y="146.457">Chamadas de API</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="71" x="1076.5" y="161.5508">[json/HTTPS]</text></g><!--MD5=[19b8a7b3afc621fd91ccf4b035deae55]
+link lprodutos to dprodutos--><g id="link_lprodutos_dprodutos"><path d="M628.29,291.27 C608.49,310.32 580.33,335.83 553,355 C533.95,368.36 529.3,373.37 507,380 C485.63,386.35 426.91,377.96 407,388 C389.31,396.92 374.42,413.05 363.46,427.94 " fill="none" id="lprodutos-to-dprodutos" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="358.71,434.66,365.7773,429.8586,360.8775,426.3955,358.71,434.66" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="542" y="376.457">Utiliza</text></g><!--MD5=[8bf5e37bad19a4192f02a29df3cd70c9]
+link lvenda to dvendas--><g id="link_lvenda_dvendas"><path d="M761.48,291.25 C753.52,311.86 739.58,339.38 718,355 C706.88,363.05 610.57,377.9 597,380 C580,382.63 535.04,379.64 520,388 C503.63,397.1 490.39,413.05 480.8,427.77 " fill="none" id="lvenda-to-dvendas" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="476.39,434.86,483.1543,429.6404,478.0543,426.4797,476.39,434.86" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="690" y="376.457">Utiliza</text></g><!--MD5=[826de8ae9cffeef13773455663ebb856]
+link lpagamento to dpagamentos--><g id="link_lpagamento_dpagamentos"><path d="M875.43,291.34 C862.16,310.42 842.72,335.94 822,355 C807.12,368.69 803.17,373.59 784,380 C757.18,388.96 683.05,376.99 657,388 C636,396.88 616.88,413.59 602.5,428.84 " fill="none" id="lpagamento-to-dpagamentos" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="597.03,434.82,604.6443,430.9441,600.2182,426.8931,597.03,434.82" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="813" y="376.457">Utiliza</text></g><!--MD5=[6725f452ce308af45dd66e24b0c56194]
+link pprodutos to dprodutos--><g id="link_pprodutos_dprodutos"><path d="M343,291.07 C343,326.02 343,387.55 343,426.34 " fill="none" id="pprodutos-to-dprodutos" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="343,434.72,346,426.72,340,426.72,343,434.72" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="344" y="376.457">Utiliza</text></g><!--MD5=[d754bb622f8574f366e2f7dd52fbe30c]
+link pestoque to destoque--><g id="link_pestoque_destoque"><path d="M105,291.07 C105,326.02 105,387.55 105,426.34 " fill="none" id="pestoque-to-destoque" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="105,434.72,108,426.72,102,426.72,105,434.72" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="106" y="376.457">Utiliza</text></g><!--MD5=[00082d0b14a988dd2c79f2d003b5d446]
+link pvendas to dvendas--><g id="link_pvendas_dvendas"><path d="M463,291.07 C463,326.02 463,387.55 463,426.34 " fill="none" id="pvendas-to-dvendas" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="463,434.72,466,426.72,460,426.72,463,434.72" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="464" y="376.457">Utiliza</text></g><!--MD5=[e87ee18b2ead7ecc3bfe63c8c5e80738]
+link pentrega to dentrega--><g id="link_pentrega_dentrega"><path d="M222,291.07 C222,326.02 222,387.55 222,426.34 " fill="none" id="pentrega-to-dentrega" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="222,434.72,225,426.72,219,426.72,222,434.72" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="223" y="376.457">Utiliza</text></g><!--MD5=[e12d359a89d55e7f11fd7116b29e7d90]
+link apiportal to auth--><g id="link_apiportal_auth"><path d="M545.0827,289.9766 C545.1363,290.1152 545.1901,290.2541 545.2443,290.3934 C545.3525,290.672 545.4619,290.9519 545.5725,291.233 C546.0148,292.3574 546.4756,293.5019 546.9552,294.6631 C547.9144,296.9856 548.9489,299.3752 550.0613,301.8063 C558.96,321.255 572.84,343.36 593,355 C618.32,369.62 827.57,356.17 856,363 C873.2,367.13 874.82,375.78 892,380 C978.4,401.2 1004.96,369.62 1092,388 C1142.11,398.58 1196.23,421.37 1233.1,438.79 " fill="none" id="apiportal-to-auth" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="1240.69,442.42,1234.7574,436.2715,1232.1774,441.6885,1240.69,442.42" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="893" y="376.457">Utiliza</text></g><!--MD5=[6017d8b6c730c497055dd93379954bdc]
+link apiloja to auth--><g id="link_apiloja_auth"><path d="M990.0843,269.8873 C990.4037,270.0999 990.7318,270.3183 991.0685,270.5423 C996.4558,274.1278 1004.0441,279.1781 1013.2933,285.3338 C1031.7916,297.645 1056.9331,314.3775 1084.3962,332.655 C1139.3225,369.21 1203.535,411.945 1242.46,437.85 " fill="none" id="apiloja-to-auth" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="1249.23,442.35,1244.2308,435.4212,1240.9076,440.4168,1249.23,442.35" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="1148" y="376.457">Utiliza</text></g><!--MD5=[a253f40e7fdcf24d18b0824a3d3a0b5c]
+link clienteapploja to auth--><g id="link_clienteapploja_auth"><path d="M1550.21,101.06 C1542.93,119.55 1532.19,144.47 1520,165 C1454.63,275.14 1350.5,387.51 1303.04,436.32 " fill="none" id="clienteapploja-to-auth" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="1297.27,442.23,1305.0074,438.6062,1300.7168,434.4121,1297.27,442.23" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="1515" y="268.457">Utiliza</text></g><!--MD5=[fdd69e2e20ab133c06280be0d710c262]
+link clientesiteloja to auth--><g id="link_clientesiteloja_auth"><path d="M1344.12,101.1 C1331.17,171.66 1296.06,363.06 1282.99,434.3 " fill="none" id="clientesiteloja-to-auth" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="1281.51,442.38,1285.9161,435.0597,1280.0163,433.9676,1281.51,442.38" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="1331" y="268.457">Utiliza</text></g><!--MD5=[da61ee0027745d404c679857ad60bf80]
+link lpagamento to pagamento--><g id="link_lpagamento_pagamento"><path d="M904.93,291.15 C913.7,310.91 925.82,338.54 936,363 C946.04,387.14 956.96,414.83 964.68,434.7 " fill="none" id="lpagamento-to-pagamento" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="967.57,442.17,967.4807,433.6265,961.885,435.7918,967.57,442.17" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="943" y="376.457">Utiliza</text></g><!--MD5=[fe1d5ec00035e876f47275eea15b77c9]
+link lvenda to email--><g id="link_lvenda_email"><path d="M760.92,291.3 C754.77,310.9 747.21,338.27 744,363 C743.03,370.49 743.86,372.45 744,380 C744.33,398.04 745.08,418.31 745.74,434.12 " fill="none" id="lvenda-to-email" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="746.1,442.4,748.7541,434.2787,742.7596,434.536,746.1,442.4" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="34" x="745" y="376.457">Utiliza</text></g><rect height="139.2656" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="133" x="1487" y="519"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="1493" y="541.5332">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1546" y="541.5332"> </text><rect fill="#08427B" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1493" y="544.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1497" y="559.1426">person</text><rect fill="#1168BD" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1493" y="562.2188"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1497" y="576.752">system</text><rect fill="#438DD5" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1493" y="579.8281"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="1497" y="594.3613">container</text><rect fill="#686868" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1493" y="597.4375"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1497" y="611.9707">external person</text><rect fill="#999999" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1493" y="615.0469"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1497" y="629.5801">external system</text><rect fill="#B3B3B3" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1493" y="632.6563"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="1497" y="647.1895">external container</text><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1614" y1="527" y2="527"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1614" y1="544.6094" y2="544.6094"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1614" y1="562.2188" y2="562.2188"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1614" y1="579.8281" y2="579.8281"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1614" y1="597.4375" y2="597.4375"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1614" y1="615.0469" y2="615.0469"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1614" y1="632.6563" y2="632.6563"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1614" y1="650.2656" y2="650.2656"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1493" x2="1493" y1="527" y2="650.2656"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1614" x2="1614" y1="527" y2="650.2656"/><!--MD5=[7a56d3a70c7062d38e03d4c253c60abc]
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Deployment.puml
+
+LAYOUT_WITH_LEGEND()
+
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(email, "Serviço de email", "")
+System_Ext(pagamento, "Gateway de pagamento", "")
+
+Deployment_Node(k8s, "Kubernetes"){
+    Deployment_Node(apiloja, "API da Loja"){
+        Container(lprodutos, "Produtos", "Node.js")
+        Container(lvenda, "Venda", "Node.js")
+        Container(lpagamento, "Pagamento", "Node.js")
+    }
+
+    Container(siteloja, "Site da Loja", "Angular Universal")
+
+    Deployment_Node(apiportal, "API do Portal de Gestão"){
+        Container(pprodutos, "Produtos", "Node.js")
+        Container(pestoque, "Estoque", "Node.js")
+        Container(pvendas, "Vendas", "Node.js")
+        Container(pentrega, "Entrega", "Node.js")
+    }
+
+    Container(siteportal, "Portal de Gestão", "Angular Universal")
+}
+
+Deployment_Node(db, "Cluster de Banco de Dados"){
+    Container(dprodutos, "Produtos", "MySQL")
+    Container(destoque, "Estoque", "MySQL")
+    Container(dvendas, "Vendas", "MySQL")
+    Container(dpagamentos, "Vendas", "MySQL")
+    Container(dentrega, "Entrega", "MySQL")
+}
+
+Deployment_Node(phone, "Celular do cliente"){
+    Container(clienteapploja, "App da Loja", "Angular + Ionic")
+}
+
+Deployment_Node(computer, "Computados do cliente"){
+    Container(clientesiteloja, "Site da Loja", "Angular Universal")
+}
+
+Deployment_Node(phoneuser, "Computados do usuário"){
+    Container(usuariosportal, "Portal de Gestão", "Angular Universal")
+}
+
+Rel(siteloja, apiloja, "Chamada de API")
+Rel(siteportal, apiportal, "Chamada de API")
+
+Rel(clienteapploja, apiloja, "Chamadas de API", "json/HTTPS")
+Rel(clientesiteloja, apiloja, "Chamadas de API", "json/HTTPS")
+Rel(usuariosportal, apiportal, "Chamadas de API", "json/HTTPS")
+
+Rel(lprodutos, dprodutos, "Utiliza")
+Rel(lvenda, dvendas, "Utiliza")
+Rel(lpagamento, dpagamentos, "Utiliza")
+Rel(pprodutos, dprodutos, "Utiliza")
+Rel(pestoque, destoque, "Utiliza")
+Rel(pvendas, dvendas, "Utiliza")
+Rel(pentrega, dentrega, "Utiliza")
+
+Rel(apiportal, auth, "Utiliza")
+Rel(apiloja, auth, "Utiliza")
+Rel(clienteapploja, auth, "Utiliza")
+Rel(clientesiteloja, auth, "Utiliza")
+
+
+Rel(lpagamento, pagamento, "Utiliza")
+Rel(lvenda, email, "Utiliza")
+
+@enduml
+
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<node>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #000000
+    BorderColor #A2A2A2
+    BorderStyle solid
+}
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system |
+|<#438DD5> container |
+|<#686868> external person |
+|<#999999> external system |
+|<#B3B3B3> external container |
+endlegend
+
+rectangle "==Serviço de autenticação" <<external_system>> as auth
+rectangle "==Serviço de email" <<external_system>> as email
+rectangle "==Gateway de pagamento" <<external_system>> as pagamento
+
+rectangle "==Kubernetes" <<node>> as k8s{
+    rectangle "==API da Loja" <<node>> as apiloja{
+        rectangle "==Produtos\n//<size:12>[Node.js]</size>//" <<container>> as lprodutos
+        rectangle "==Venda\n//<size:12>[Node.js]</size>//" <<container>> as lvenda
+        rectangle "==Pagamento\n//<size:12>[Node.js]</size>//" <<container>> as lpagamento
+    }
+
+    rectangle "==Site da Loja\n//<size:12>[Angular Universal]</size>//" <<container>> as siteloja
+
+    rectangle "==API do Portal de Gestão" <<node>> as apiportal{
+        rectangle "==Produtos\n//<size:12>[Node.js]</size>//" <<container>> as pprodutos
+        rectangle "==Estoque\n//<size:12>[Node.js]</size>//" <<container>> as pestoque
+        rectangle "==Vendas\n//<size:12>[Node.js]</size>//" <<container>> as pvendas
+        rectangle "==Entrega\n//<size:12>[Node.js]</size>//" <<container>> as pentrega
+    }
+
+    rectangle "==Portal de Gestão\n//<size:12>[Angular Universal]</size>//" <<container>> as siteportal
+}
+
+rectangle "==Cluster de Banco de Dados" <<node>> as db{
+    rectangle "==Produtos\n//<size:12>[MySQL]</size>//" <<container>> as dprodutos
+    rectangle "==Estoque\n//<size:12>[MySQL]</size>//" <<container>> as destoque
+    rectangle "==Vendas\n//<size:12>[MySQL]</size>//" <<container>> as dvendas
+    rectangle "==Vendas\n//<size:12>[MySQL]</size>//" <<container>> as dpagamentos
+    rectangle "==Entrega\n//<size:12>[MySQL]</size>//" <<container>> as dentrega
+}
+
+rectangle "==Celular do cliente" <<node>> as phone{
+    rectangle "==App da Loja\n//<size:12>[Angular + Ionic]</size>//" <<container>> as clienteapploja
+}
+
+rectangle "==Computados do cliente" <<node>> as computer{
+    rectangle "==Site da Loja\n//<size:12>[Angular Universal]</size>//" <<container>> as clientesiteloja
+}
+
+rectangle "==Computados do usuário" <<node>> as phoneuser{
+    rectangle "==Portal de Gestão\n//<size:12>[Angular Universal]</size>//" <<container>> as usuariosportal
+}
+
+siteloja - ->> apiloja : **Chamada de API**
+siteportal - ->> apiportal : **Chamada de API**
+
+clienteapploja - ->> apiloja : **Chamadas de API**\n//<size:12>[json/HTTPS]</size>//
+clientesiteloja - ->> apiloja : **Chamadas de API**\n//<size:12>[json/HTTPS]</size>//
+usuariosportal - ->> apiportal : **Chamadas de API**\n//<size:12>[json/HTTPS]</size>//
+
+lprodutos - ->> dprodutos : **Utiliza**
+lvenda - ->> dvendas : **Utiliza**
+lpagamento - ->> dpagamentos : **Utiliza**
+pprodutos - ->> dprodutos : **Utiliza**
+pestoque - ->> destoque : **Utiliza**
+pvendas - ->> dvendas : **Utiliza**
+pentrega - ->> dentrega : **Utiliza**
+
+apiportal - ->> auth : **Utiliza**
+apiloja - ->> auth : **Utiliza**
+clienteapploja - ->> auth : **Utiliza**
+clientesiteloja - ->> auth : **Utiliza**
+
+
+lpagamento - ->> pagamento : **Utiliza**
+lvenda - ->> email : **Utiliza**
+
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 13:10:57 BRT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>

@@ -1,0 +1,74 @@
+
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Deployment.puml
+
+LAYOUT_WITH_LEGEND()
+
+System_Ext(auth, "Serviço de autenticação", "")
+System_Ext(email, "Serviço de email", "")
+System_Ext(pagamento, "Gateway de pagamento", "")
+
+Deployment_Node(k8s, "Kubernetes"){
+    Deployment_Node(apiloja, "API da Loja"){
+        Container(lprodutos, "Produtos", "Node.js")
+        Container(lvenda, "Venda", "Node.js")
+        Container(lpagamento, "Pagamento", "Node.js")
+    }
+
+    Container(siteloja, "Site da Loja", "Angular Universal")
+
+    Deployment_Node(apiportal, "API do Portal de Gestão"){
+        Container(pprodutos, "Produtos", "Node.js")
+        Container(pestoque, "Estoque", "Node.js")
+        Container(pvendas, "Vendas", "Node.js")
+        Container(pentrega, "Entrega", "Node.js")
+    }
+
+    Container(siteportal, "Portal de Gestão", "Angular Universal")
+}
+
+Deployment_Node(db, "Cluster de Banco de Dados"){
+    Container(dprodutos, "Produtos", "MySQL")
+    Container(destoque, "Estoque", "MySQL")
+    Container(dvendas, "Vendas", "MySQL")
+    Container(dpagamentos, "Vendas", "MySQL")
+    Container(dentrega, "Entrega", "MySQL")
+}
+
+Deployment_Node(phone, "Celular do cliente"){
+    Container(clienteapploja, "App da Loja", "Angular + Ionic")
+}
+
+Deployment_Node(computer, "Computados do cliente"){
+    Container(clientesiteloja, "Site da Loja", "Angular Universal")
+}
+
+Deployment_Node(phoneuser, "Computados do usuário"){
+    Container(usuariosportal, "Portal de Gestão", "Angular Universal")
+}
+
+Rel(siteloja, apiloja, "Chamada de API")
+Rel(siteportal, apiportal, "Chamada de API")
+
+Rel(clienteapploja, apiloja, "Chamadas de API", "json/HTTPS")
+Rel(clientesiteloja, apiloja, "Chamadas de API", "json/HTTPS")
+Rel(usuariosportal, apiportal, "Chamadas de API", "json/HTTPS")
+
+Rel(lprodutos, dprodutos, "Utiliza")
+Rel(lvenda, dvendas, "Utiliza")
+Rel(lpagamento, dpagamentos, "Utiliza")
+Rel(pprodutos, dprodutos, "Utiliza")
+Rel(pestoque, destoque, "Utiliza")
+Rel(pvendas, dvendas, "Utiliza")
+Rel(pentrega, dentrega, "Utiliza")
+
+Rel(apiportal, auth, "Utiliza")
+Rel(apiloja, auth, "Utiliza")
+Rel(clienteapploja, auth, "Utiliza")
+Rel(clientesiteloja, auth, "Utiliza")
+
+
+Rel(lpagamento, pagamento, "Utiliza")
+Rel(lvenda, email, "Utiliza")
+
+@enduml
